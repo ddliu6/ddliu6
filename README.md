@@ -2,10 +2,9 @@
 <h3 align="center">A passionate game designer from Taiwan</h3>
 
 - 👨‍💻 You can play my games at **[Unity Play](https://github.com/ddliu6)**
-
 - 📫 How to reach me **liu.chengha@northeastern.edu**
-
-- ⚡ About me **I'm cool and funny 😎**
+- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1Gh8Cwonwrbka-iJ4QFmeUsDFR7t4-l9Nx94bCAHQ-_0/edit?usp=sharing)**
+- ⚡ About DD **I'm cool and funny 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
