@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DD</h1>
+<h1 align="center">Hi, I'm DD👋</h1>
 <h3 align="center">A passionate game designer from Taiwan</h3>
 
 - 👨‍💻 You can play my games at **[Unity Play](https://github.com/ddliu6)**
